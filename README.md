@@ -4,7 +4,7 @@ Hey all! This repository is my personal learning log and sandbox for RNA-seq dat
 I'm not aiming for a polished final product here. I'm documenting my process, questions, and adaptations as I figure things out.
 
 ## Goals
-- Learn the RNA-sez analysis pipeline step by step
+- Learn the RNA-seq analysis pipeline step by step
 - Reframe existing protocols in ways that make sense to my brain
 - Capture missteps, breakthroughs, and alternate mental paths _transparently_
 
